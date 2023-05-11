@@ -1,0 +1,22 @@
+{
+  "WELCOME": "Iceberg'e hoşgeldin.",
+  "LANGUAGE_CHANGED": "Dil {{lang}} olarak değiştirildi.",
+  "BEGGING_OF_THE_CHAT": "Burası sohbetin başlangıcı.",
+  "EDITED_MESSAGE": "{{time}} düzenlendi",
+  "EDIT": "Düzenle",
+  "DELETE": "Sil",
+  "TYPE_YOUR_MESSAGE": "Mesajınızı burya yazın...",
+  "MESSAGE": "Mesaj",
+  "ANONYMOUS": "Anonim",
+  "LOGOUT": "Çıkış Yap",
+  "MESSAGE_UPDATED": "Mesaj başarıyla güncellendi.",
+  "MESSAGE_DELETED": "Mesaj başarıyla silindi.",
+  "LOGIN_SUCESS": "Giriş yapıldı.",
+  "LOGOUT_SUCESS": "Çıkış yapıldı.",
+  "LOGIN_WITH_GOOGLE": "Google ile Giriş Yap",
+  "LOGIN_WITH_FACEBOOK": "Facebook ile Giriş Yap",
+  "LOGIN_WITH_GITHUB": "Github ile Giriş Yap",
+  "REPLY": "Yanıtla",
+  "REPLYING_TO": "{{name}} kişisine yanıt veriliyor.",
+  "DELETED_MESSAGE": "mesaj silinmiş."
+}
